@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\bin\Debug\net8.0\screen-sound-api.exe
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\bin\Debug\net8.0\screen-sound-api.deps.json
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\bin\Debug\net8.0\screen-sound-api.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\bin\Debug\net8.0\screen-sound-api.dll
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\bin\Debug\net8.0\screen-sound-api.pdb
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\screen-sound-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\screen-sound-api.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\screen-sound-api.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\screen-sound-api.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\screen-sound-api.sourcelink.json
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\screen-sound-api.dll
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\refint\screen-sound-api.dll
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\screen-sound-api.pdb
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\screen-sound-api.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Documentos\projetos-c#\csharp-educational-projects\screen-sound-api\screen-sound-api\obj\Debug\net8.0\ref\screen-sound-api.dll
